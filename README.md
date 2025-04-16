@@ -15,10 +15,6 @@ This project demonstrates a beautiful 3D-like animation effect using only **HTML
 - HTML5  
 - CSS3 (Flexbox, Custom Properties, Keyframe Animations)
 
-## 🎥 Preview
-
-![Animation Preview](./preview.gif) <!-- Optional: replace with your preview gif or image -->
-
 ## 🛠️ How It Works
 
 Each `.circle` uses a custom property (`--i`) to:
