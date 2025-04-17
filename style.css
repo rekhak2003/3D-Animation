@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,7 +13,7 @@ body{
     overflow: hidden;
 }
 
-.container{
+.container {
     position: absolute;
     top: 20%;
     height: 90%;
